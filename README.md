@@ -2,7 +2,6 @@
 
 
 
-- 🔭 I’m currently working on ...
 - 🌱 Estou estudando JavaScript,HTML5 e CSS ...
  ##
 
@@ -17,6 +16,7 @@
   <img align="center" alt="Andre-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andre-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
   <p></p>
   
 </div>
@@ -33,4 +33,8 @@
  
 
  
+</div>
+ <div>
+   <img align="center" alt="GuitaAnime" height="180" width="280" src= "https://cdn.pixabay.com/photo/2018/09/05/21/49/liquid-guitar-3657176_960_720.png"
+       
 </div>
