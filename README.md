@@ -34,7 +34,3 @@
 
  
 </div>
- <div>
-   <img align="center" alt="GuitaAnime" height="180" width="280" src= "https://cdn.pixabay.com/photo/2018/09/05/21/49/liquid-guitar-3657176_960_720.png"
-       
-</div>
