@@ -17,9 +17,9 @@
   <img align="center" alt="Andre-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andre-PHP" height="55" width="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--dy12VEVS--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/21/php-elephant.png">
-  <img align="center" alt="Andre-PYTHON" height="55" width="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ge9Pgpys--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/20/57795360-bec24f00-7713-11e9-9516-20f5f5d0f034.png">
-  <img align="center" alt="Andre-C#" height="50" width="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--IMy76vSA--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/33/csharp-badge.png">
+  <img align="center" alt="Andre-PHP" height="60" width="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--dy12VEVS--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/21/php-elephant.png">
+  <img align="center" alt="Andre-PYTHON" height="60" width="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ge9Pgpys--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/20/57795360-bec24f00-7713-11e9-9516-20f5f5d0f034.png">
+  <img align="center" alt="Andre-C#" height="60" width="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--IMy76vSA--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/33/csharp-badge.png">
  
   <p></p>
   
