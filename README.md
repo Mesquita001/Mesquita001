@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estou estudando JavaScript,HTML5 e CSS ...
+- 🌱 Estou estudando JavaScript,HTML5  CSS e Java ...
  ##
 
 <div>
